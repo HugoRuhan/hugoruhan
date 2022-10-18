@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 🗯️ Um Publicitário, que decidiu seguir carreira em Dev e compartilha esse mundo
 
 - 🎓 Formado em Publicidade e Propaganda;
-- 💻 HTML + CSS + java;
+- 💻 HTML + CSS + JAVA;
 - 🤓 Sites + Resolvendo bugs;
 - ⚛️ Análise e Desenvolvimento de Sistemas
 - ✨ Conteúdos de desenvolvimento
@@ -31,7 +31,12 @@ Here are some ideas to get you started:
 
 
 ## **Linguagens e Ferramentas:**  
-
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
 <div style="display: inline_block"><br>
   <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/javascript-plain.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/typescript-original.svg" width="50" height="40" align="center"/>
