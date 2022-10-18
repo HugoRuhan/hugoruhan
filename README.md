@@ -4,7 +4,7 @@
 💻 HTML + CSS + java;
 🤓 Sites + Resolvendo bugs;
 ⚛️ Análise e Desenvolvimento de Sistemas
-Conteúdos de desenvolvimento
+✨ Conteúdos de desenvolvimento
 
 
 
