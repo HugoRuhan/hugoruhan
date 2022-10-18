@@ -1,11 +1,11 @@
 🗯️ Um Publicitário, que decidiu seguir carreira em Dev e compartilha esse mundo
 
-
-💻 HTML + CSS + java;
-🤓 Sites + Resolvendo bugs;
-⚛️ Análise e Desenvolvimento de Sistemas
-✨ Conteúdos de desenvolvimento
-
+- 🎓 Formado em Publicidade e Propaganda;
+- 💻 HTML + CSS + java;
+- 🤓 Sites + Resolvendo bugs;
+- ⚛️ Análise e Desenvolvimento de Sistemas
+- ✨ Conteúdos de desenvolvimento
+- ⭐️ Logo uma Vaga em sua Empresa
 
 
 <!--
