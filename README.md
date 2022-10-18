@@ -42,11 +42,12 @@ Here are some ideas to get you started:
   <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/mysql-plain.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/mongodb-original.svg" width="50" height="40" align="center"/>
 
-</div><br>
+</div>
 
+<br>
 <div align="center">
   <a href="https://github.com/HugoRuhan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HugoRuhan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="40em" src="https://github-readme-stats.vercel.app/api?username=HugoRuhan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <a href="https://github.com/Gurupreet">
