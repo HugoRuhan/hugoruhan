@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 - 🎓 Formado em Publicidade e Propaganda;
 - 💻 HTML + CSS + JAVA;
 - 🤓 Sites + Resolvendo bugs;
-- ⚛️ Análise e Desenvolvimento de Sistemas
-- ✨ Conteúdos de desenvolvimento
-- ⭐️ Logo uma Vaga em sua Empresa
+- ⚛️ Análise e Desenvolvimento;
+- ✨ Blogs e Redação e Conteúdos ;
+- ⭐️ Logo uma Vaga em sua Empresa.
 
 
 ## **Linguagens e Ferramentas:**  
